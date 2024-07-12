@@ -2,7 +2,7 @@ Liliane Sougarc - Repositório de Estudos de Programação
 
 Olá, eu sou @liliane-sougarc
 
-Estou interessada em fazer a transição da minha carreira para o setor de tecnologia, com foco em Análise de Dados e Desenvolvimento de Aplicações para o mercado financeiro. Tenho uma sólida experiência em [sua área anterior] e sou apaixonada por utilizar dados e programação para resolver problemas complexos e gerar insights valiosos.
+Estou interessada em fazer a transição da minha carreira para o setor de tecnologia, com foco em Análise de Dados e Desenvolvimento de Aplicações para o mercado financeiro. Tenho uma sólida experiência em Empreender e sou apaixonada por utilizar dados e programação para resolver problemas complexos e gerar insights valiosos.
 
 Atualmente estou aprendendo Python, Power BI e os princípios da lógica de programação. Também estou mergulhando fundo nos mercados financeiros para entender melhor como a análise de dados e o desenvolvimento de aplicações podem ser aplicados neste setor.
 
