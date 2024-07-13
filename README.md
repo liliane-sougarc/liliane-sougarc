@@ -2,7 +2,7 @@
 
 ## Olá, eu sou @liliane-sougarc
 
-Estou interessada em fazer a transição de carreira para o setor de tecnologia, com foco em **Análise de Dados e Desenvolvimento de Aplicações para o mercado financeiro**. Tenho uma sólida experiência em **Empreender** e sou apaixonada por utilizar dados e programação para resolver problemas complexos e gerar insights valiosos.
+Estou interessada em fazer a transição de carreira para o setor de tecnologia, com foco em **Análise de Dados e Desenvolvimento de Aplicações para o Mercado Financeiro**. Tenho sólida experiência em **Empreender** e sou apaixonada por utilizar dados e programação para resolver problemas complexos e gerar insights valiosos.
 
 Atualmente estou aprendendo **Python, Power BI, Lógica de programação e Blockchain**. Também estou mergulhando fundo nos mercados financeiros para entender melhor como a análise de dados e o desenvolvimento de aplicações podem ser aplicados neste setor.
 
