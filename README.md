@@ -34,10 +34,10 @@ Este repositório serve como um registro da minha jornada de aprendizado. Aqui, 
 Contém projetos de Inteligência Artificial utilizando ferramentas como ChatGPT, Copilot e Microsoft Azure e outras, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
 
 
-**AnaliseDeDados**
+**Analise de Dados**
 Contém projetos de análise de dados utilizando ferramentas como Python, Power BI e outras bibliotecas de análise de dados, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
 
-**DesenvolvimentoDeAplicacoes**
+**Desenvolvimento de Aplicacoes**
 Inclui projetos de desenvolvimento de software, especialmente voltados para o mercado financeiro, tutoriais e exemplos de código para fortalecer tanto o conhecimento teórico quanto prático.
 
 **Blockchain**
