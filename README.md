@@ -1,4 +1,4 @@
-# Liliane Sougarc - Repositório de Estudos de Programação
+# Liliane Souza Garcia - Repositório de Estudos de Programação
 
 ## Olá, eu sou @liliane-sougarc
 
