@@ -1,4 +1,4 @@
-# Liliane Souza Garcia - Repositório de Estudos de Programação
+# Liliane Souza Garcia - Repositório de Estudos de Programação e Tecnologia
 
 ## Olá, eu sou @liliane-sougarc
 
@@ -22,10 +22,9 @@ Este repositório serve como um registro da minha jornada de aprendizado. Aqui, 
 
 -Análise de Dados
 
--Desenvolvimento de Aplicações
+-Desenvolvimento de Aplicações-
 
--Mercado Financeiro
-
+-Blockchain
 
 
 ## Descrição das Pastas
@@ -38,10 +37,10 @@ Contém projetos de Inteligência Artificial utilizando ferramentas como ChatGPT
 Contém projetos de análise de dados utilizando ferramentas como Python, Power BI e outras bibliotecas de análise de dados, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
 
 **Desenvolvimento de Aplicacoes**
-Inclui projetos de desenvolvimento de software, especialmente voltados para o mercado financeiro, tutoriais e exemplos de código para fortalecer tanto o conhecimento teórico quanto prático.
+Inclui projetos de desenvolvimento de software, tutoriais e exemplos de código para fortalecer tanto o conhecimento teórico quanto prático.
 
 **Blockchain**
-Focado em estudos sobre o mercado financeiro, artigos relevantes e como a análise de dados e o desenvolvimento de aplicações podem ser aplicados nesse setor.
+Focado em estudos sobre sistema descentralizado, artigos relevantes e o desenvolvimento de aplicações podem ser aplicados nesse setor.
 
 ### Como Contribuir
 
