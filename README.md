@@ -2,7 +2,7 @@
 
 ## Olá, eu sou @liliane-sougarc
 
-Estou interessada em fazer a transição de carreira para o setor de tecnologia, com foco em **Análise de Dados e Desenvolvimento de Aplicações para o Mercado Financeiro**. Tenho sólida experiência em **Empreender** e sou apaixonada por Tecnologia e Inovação.
+Estou interessada em fazer a transição de carreira para o setor de tecnologia, com foco em **Análise de Dados e Desenvolvimento de Aplicações**. Tenho sólida experiência em **Empreender** e sou apaixonada por Tecnologia e Inovação.
 
 Atualmente estou aprendendo **Inteligência Artificial, Python, Power BI, Cloud Computing e Blockchain**. Também estou mergulhando fundo nos mercados financeiros para entender melhor como a análise de dados e o desenvolvimento de aplicações podem ser aplicados neste setor.
 
@@ -22,25 +22,26 @@ Este repositório serve como um registro da minha jornada de aprendizado. Aqui, 
 
 -Análise de Dados
 
+-Blockchain
+
 -Desenvolvimento de Aplicações-
 
--Blockchain
 
 
 ## Descrição das Pastas
 
-**Inteligência Artificial**
+**Inteligência Artificial- CloudComputing- Machine learning**
 Contém projetos de Inteligência Artificial utilizando ferramentas como ChatGPT, Copilot e Microsoft Azure e outras, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
-
 
 **Analise de Dados**
 Contém projetos de análise de dados utilizando ferramentas como Python, Power BI e outras bibliotecas de análise de dados, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
 
+**Blockchain**
+Focado em estudos sobre sistema descentralizado, artigos relevantes e o desenvolvimento de aplicações que podem ser aplicados nesse setor.
+
 **Desenvolvimento de Aplicacoes**
 Inclui projetos de desenvolvimento de software, tutoriais e exemplos de código para fortalecer tanto o conhecimento teórico quanto prático.
 
-**Blockchain**
-Focado em estudos sobre sistema descentralizado, artigos relevantes e o desenvolvimento de aplicações podem ser aplicados nesse setor.
 
 ### Como Contribuir
 
