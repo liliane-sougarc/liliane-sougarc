@@ -2,57 +2,63 @@
 
 ## Olá, eu sou @liliane-sougarc
 
-Estou interessada em fazer a transição de carreira para o setor de tecnologia, com foco em **Análise de Dados e Desenvolvimento de Aplicações**. Tenho sólida experiência em **Empreender** e sou apaixonada por Tecnologia e Inovação.
+# 👩‍💻 Liliane | Análise de Dados aplicada ao Marketing Digital
 
-Atualmente estou aprendendo **Inteligência Artificial, Python, Power BI, Cloud Computing e Blockchain**. Também estou mergulhando fundo nos mercados financeiros para entender melhor como a análise de dados e o desenvolvimento de aplicações podem ser aplicados neste setor.
+Sou aluna do Bootcamp de Data Analytics da [Womakerscode](https://womakerscode.org/), em transição de carreira para tecnologia, com sólida experiência em empreendedorismo.
 
-Estou procurando colaborar em projetos relacionados à análise de dados, aplicações para o mercado financeiro e soluções de software inovadoras como a Blockchain. Bastante animada para trabalhar com outras pessoas que compartilham interesses e objetivos semelhantes.
-
-Para me *contactar*: Sinta-se à vontade para entrar em contato comigo por e-mail em **liliane.sougarc@gmail.com** . Estou sempre aberta para discutir novas ideias, colaborações e oportunidades.
-
-### Pronomes: Ela/Dela 
-
-*Curiosidade* : Tenho um talento especial para resolver quebra-cabeças e gosto de enfrentar desafios, seja em um quebra-cabeça de peças ou em um conjunto de dados complexo.
-
-## Sobre Este Repositório 
-
-Este repositório serve como um registro da minha jornada de aprendizado. Aqui, você encontrará meus projetos, notas, exercícios e referências úteis nas seguintes áreas:
-
--Inteligência Artificial
-
--Análise de Dados
-
--Blockchain
-
--Desenvolvimento de Aplicações-
+Me especializo em **Análise de Dados com foco em campanhas de marketing digital**, automações e inteligência artificial.  
+Minha missão é clara: **usar dados para potencializar resultados de marketing, aumentar conversões e reduzir custos** com decisões baseadas em evidência.
 
 
+---
 
-## Descrição das Pastas
+## 💼 O que estou construindo
 
-**Inteligência Artificial- CloudComputing- Machine learning**
-Contém projetos de Inteligência Artificial utilizando ferramentas como ChatGPT, Copilot e Microsoft Azure e outras, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
+- 📊 Dashboards para leitura estratégica de campanhas
+- 🐍 Scripts em Python para análises, automações e insights
+- 🤖 Soluções com IA para conteúdo, segmentação e otimização
+- 💬 Projetos práticos conectando dados com lucro real
 
-**Analise de Dados**
-Contém projetos de análise de dados utilizando ferramentas como Python, Power BI e outras bibliotecas de análise de dados, tutoriais passo a passo e conjuntos de dados utilizados nos projetos.
+---
 
-**Blockchain**
-Focado em estudos sobre sistema descentralizado, artigos relevantes e o desenvolvimento de aplicações que podem ser aplicados nesse setor.
+## 🚀 Interesses
 
-**Desenvolvimento de Aplicacoes**
-Inclui projetos de desenvolvimento de software, tutoriais e exemplos de código para fortalecer tanto o conhecimento teórico quanto prático.
+- Análise de dados aplicada ao marketing digital  
+- Inteligência artificial para automação e personalização  
+- Aplicações simples, eficazes e visuais para tomada de decisão  
 
+📬 Entre em contato: [liliane.sougarc@gmail.com](mailto:liliane.sougarc@gmail.com)
 
-### Como Contribuir
+---
 
-Sinta-se à vontade para explorar, utilizar e contribuir com este repositório. Sugestões, correções e melhorias são sempre bem-vindas!
+## 📁 Sobre este Repositório
 
-Faça um fork deste repositório.
-Crie um branch com a sua feature ou correção: git checkout -b minha-feature
+Este repositório é um **registro da minha evolução na área de dados**.  
+Aqui você vai encontrar projetos reais e práticos organizados por tema:
 
-Commit suas mudanças: git commit -m 'Minha nova feature'
+### 📊 Análise de Dados
+Projetos com Python, Power BI e bibliotecas de visualização de dados aplicadas a campanhas digitais.
 
-Envie para o branch: git push origin minha-feature
+### 🤖 Automações e IA
+Soluções com inteligência artificial voltadas para redes sociais, análise de métricas e otimizações automatizadas.
 
-Abra um Pull Request.
+### 💻 Desenvolvimento de Aplicações
+Dashboards interativos e ferramentas práticas criadas com foco em performance e marketing.
 
+---
+
+## 🤝 Como Contribuir
+
+Fique à vontade para explorar, usar e contribuir com este repositório. Sugestões, melhorias e ideias são sempre bem-vindas!
+
+```bash
+# Faça um fork do projeto
+git checkout -b minha-feature
+
+# Commit suas mudanças
+git commit -m "Minha contribuição"
+
+# Envie para seu fork
+git push origin minha-feature
+
+# Crie um Pull Request
