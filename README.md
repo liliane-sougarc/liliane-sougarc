@@ -1,64 +1,78 @@
-# Liliane Souza Garcia - Repositório de Estudos de Programação e Tecnologia
+# Liliane Souza Garcia  
+## Analista de Dados | BI, Negócio & IA (em formação contínua)
 
-## Olá, eu sou @liliane-sougarc
+Olá, eu sou a @liliane-sougarc 👋  
 
-# 👩‍💻 Liliane | Análise de Dados aplicada ao Marketing Digital
+Sou Analista de Dados em formação contínua, com base sólida em **Data Analytics, BI e visualização de dados**, aliando conhecimento técnico à **visão de negócio**.  
+Tenho trajetória prática em empreendedorismo e marketing digital, o que fortalece minha capacidade de **interpretar métricas, comunicar insights e apoiar a tomada de decisão**.
 
-Sou aluna do Bootcamp de Data Analytics da [Womakerscode](https://womakerscode.org/), em transição de carreira para tecnologia, com sólida experiência em empreendedorismo.
-
-Me especializo em **Análise de Dados com foco em campanhas de marketing digital**, automações e inteligência artificial.  
-Minha missão é clara: **usar dados para potencializar resultados de marketing, aumentar conversões e reduzir custos** com decisões baseadas em evidência.
-
+Fui **aprovada com mérito** no **Bootcamp de Data Analytics da WoMakersCode em parceria com a S&P Global Foundation**, e sigo aprofundando meus estudos em dados, BI, IA e automação.
 
 ---
 
-## 💼 O que estou construindo
-
-- 📊 Dashboards para leitura estratégica de campanhas
-- 🐍 Scripts em Python para análises, automações e insights
-- 🤖 Soluções com IA para conteúdo, segmentação e otimização
-- 💬 Projetos práticos conectando dados com lucro real
-
----
-
-## 🚀 Interesses
-
-- Análise de dados aplicada ao marketing digital  
-- Inteligência artificial para automação e personalização  
-- Aplicações simples, eficazes e visuais para tomada de decisão  
-
-📬 Entre em contato: [liliane.sougarc@gmail.com](mailto:liliane.sougarc@gmail.com)
+## 🎯 Foco atual
+- Análise de dados aplicada a negócio e performance  
+- Business Intelligence e visualização de dados  
+- Apoio à tomada de decisão orientada por dados  
+- Uso de IA como ferramenta de produtividade e análise  
 
 ---
 
-## 📁 Sobre este Repositório
+## 🛠️ Habilidades em desenvolvimento e aplicação
 
-Este repositório é um **registro da minha evolução na área de dados**.  
-Aqui você vai encontrar projetos reais e práticos organizados por tema:
+### 📊 Data Analytics & BI
+- Análise exploratória de dados (EDA)
+- Definição e acompanhamento de KPIs
+- Geração de insights para negócio
+- Storytelling com dados
 
-### 📊 Análise de Dados
-Projetos com Python, Power BI e bibliotecas de visualização de dados aplicadas a campanhas digitais.
+### 🧰 Ferramentas & Tecnologias
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (SELECT, JOIN, GROUP BY)
+- Power BI (modelagem e dashboards)
+- Looker (visualização de dados)
+- Excel / Google Sheets
+- Git & GitHub
 
-### 🤖 Automações e IA
-Soluções com inteligência artificial voltadas para redes sociais, análise de métricas e otimizações automatizadas.
+### 📈 Estatística & Modelos
+- Estatística descritiva e inferencial
+- Testes de hipótese e regressão
+- Modelos preditivos (nível introdutório)
 
-### 💻 Desenvolvimento de Aplicações
-Dashboards interativos e ferramentas práticas criadas com foco em performance e marketing.
+### 🤖 IA & Automação
+- Uso de IA generativa aplicada a dados
+- Automação de análises e organização de informações
 
 ---
 
-## 🤝 Como Contribuir
+## 🧪 O que estou construindo neste repositório
+Este repositório representa minha **evolução prática na área de dados**.  
+Os projetos estão sendo organizados e publicados gradualmente, incluindo:
 
-Fique à vontade para explorar, usar e contribuir com este repositório. Sugestões, melhorias e ideias são sempre bem-vindas!
+- 📊 Projetos de análise de dados com Python  
+- 📈 Dashboards em Power BI e Looker  
+- 🗄️ Estudos e práticas com bancos de dados SQL  
+- 🤖 Aplicações de IA e automação para análise e negócio  
 
-```bash
-# Faça um fork do projeto
-git checkout -b minha-feature
+> ⚠️ Observação: os projetos estão sendo inseridos de forma progressiva, conforme avanço nas formações e consolido estudos aplicados.
 
-# Commit suas mudanças
-git commit -m "Minha contribuição"
+---
 
-# Envie para seu fork
-git push origin minha-feature
+## 🌱 Experiência aplicada a dados (contexto de negócio)
+Além dos estudos técnicos, desenvolvo projetos próprios que envolvem:
+- Estruturação e uso de bancos de dados
+- Análise de métricas digitais
+- Apoio à tomada de decisão baseada em dados
+- Visualização de indicadores de desempenho
 
-# Crie um Pull Request
+Essas experiências fortalecem minha atuação em **dados aplicados a contextos reais**.
+
+---
+
+## 📬 Contato
+📧 Email: liliane.sougarc@gmail.com  
+🔗 GitHub: https://github.com/liliane-sougarc  
+
+---
+
+*Este repositório é um espaço vivo de aprendizado, prática e construção contínua em Data Analytics.*
