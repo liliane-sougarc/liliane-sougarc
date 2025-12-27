@@ -6,7 +6,7 @@ Olá, eu sou a @liliane-garcia 👋
 Sou Analista de Dados em formação contínua, com base sólida em **Data Analytics, BI e visualização de dados**, aliando conhecimento técnico à **visão de negócio**.  
 Tenho trajetória prática em empreendedorismo e marketing digital, o que fortalece minha capacidade de **interpretar métricas, comunicar insights e apoiar a tomada de decisão**.
 
-Fui **aprovada com mérito** no **Bootcamp de Data Analytics da WoMakersCode em parceria com a S&P Global Foundation**, e sigo aprofundando meus estudos em dados, BI, IA e automação.
+Fui **aprovada** no **Bootcamp de Data Analytics da WoMakersCode em parceria com a S&P Global Foundation**, e sigo aprofundando meus estudos em dados, BI, IA e automação.
 
 ---
 
