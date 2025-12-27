@@ -1,7 +1,7 @@
-# Liliane Souza Garcia  
+# Liliane Garcia  
 ## Analista de Dados | BI, Negócio & IA (em formação contínua)
 
-Olá, eu sou a @liliane-sougarc 👋  
+Olá, eu sou a @liliane-garcia 👋  
 
 Sou Analista de Dados em formação contínua, com base sólida em **Data Analytics, BI e visualização de dados**, aliando conhecimento técnico à **visão de negócio**.  
 Tenho trajetória prática em empreendedorismo e marketing digital, o que fortalece minha capacidade de **interpretar métricas, comunicar insights e apoiar a tomada de decisão**.
